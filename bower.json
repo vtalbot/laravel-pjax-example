@@ -1,0 +1,13 @@
+{
+  "name": "pjax-example",
+  "version": "0.1.0",
+  "authors": [
+    "Vincent Talbot <vincent.talbot@gmail.com>"
+  ],
+  "description": "PJAX for Laravel 4",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "jquery-pjax": "~1.9.2"
+  }
+}
